@@ -10,9 +10,9 @@
 	
 	ID - Número sequencial
 	label - Atributo alfabético indicando a classe a qual o e-mail pertence
-			ham  - email normal
-			spam - email classificado como spam
+		ham  - email normal
+		spam - email classificado como spam
 	text  - o texto completo do e-mail, incluindo subject e o corpo do mesmo
 	label_num  - Atributo numérico indicando a classe a qual o e-mail pertence
-				 0  - email normal
-				 1 - email classificado como spam
+		0  - email normal
+		1 - email classificado como spam
