@@ -1,0 +1,1 @@
+cat AV2.txt | cut -d':' -f1 | cut -d'.' -f2-4 | tr '.' ',' | tr '-' ',' > T1p1b.txt
