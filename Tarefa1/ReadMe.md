@@ -4,7 +4,7 @@ Exercício A
 
 No mesmo diretório onde se encontra o arquivo AV1.txt executar
 
-./script1.sh > saida1.txt
+./script1A.sh > saida1.txt
 
 O arquivo saida1.txt contêm as informações solicitadas
 
@@ -12,7 +12,7 @@ Exercício B
 
 No mesmo diretório onde se encontra o arquivo AV2.txt executar
 
-cat AV2.txt | cut -d':' -f1 | cut -d'.' -f2-4 | tr '.' ',' | tr '-' ',' > saida2.txt
+./script1B.sh  > saida2.txt
 
 O arquivo saida2.txt contêm as informações solicitadas
 
